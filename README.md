@@ -176,9 +176,18 @@ We welcome contributions! Ways to help:
 - Test workflows and report issues
 - Submit new template ideas
 
+## ⚠️ Important Disclaimer
+
+**These workflow templates have been gathered from various sources across the web and are provided AS-IS for educational and development purposes only.**
+
+- **No Legal Liability:** The repository maintainers assume NO responsibility or legal liability whatsoever for any issues, damages, or consequences arising from the use of these templates.
+- **User Responsibility:** Users are solely responsible for testing, validating, securing, and ensuring compliance of any workflows before use.
+- **No Warranty:** These templates are provided without any warranty of functionality, security, or fitness for any particular purpose.
+- **Attribution Required:** When using these templates, please maintain attribution to this repository.
+
 ## 📄 License
 
-This collection is open source.
+This collection is open source under the MIT License with attribution requirement.
 Individual workflows may have specific requirements based on their integrated services and APIs.
 
 ## 🔗 Links
